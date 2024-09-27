@@ -1,7 +1,7 @@
 import 'dart:io';
 
 class Car {
-  
+
   String brand;
   String model;
   int year;
